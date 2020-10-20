@@ -1,0 +1,2 @@
+# how_to_access_local_pc_server_from_android_device
+Android の端末から PC のローカルサーバにアクセスする方法
